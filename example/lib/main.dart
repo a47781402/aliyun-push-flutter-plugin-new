@@ -99,7 +99,7 @@ class _HomePageState extends BaseState<HomePage> {
     super.initState();
 
     if (Platform.isAndroid) {
-      _aliyunPush.createAndroidChannel('8.0up', '测试通道A', 3, '测试创建通知通道');
+      // _aliyunPush.createAndroidChannel('8.0up', '测试通道A', 3, '测试创建通知通道');
     }
 
     _addPushCallback();

@@ -159,13 +159,13 @@ class AliyunPushPlugin : FlutterPlugin, MethodCallHandler {
         val context = mContext.applicationContext
 
         if (context is Application) {
-            AliyunThirdPushUtils.registerHuaweiPush(context)
-            AliyunThirdPushUtils.registerXiaomiPush(context)
-            AliyunThirdPushUtils.registerVivoPush(context)
-            AliyunThirdPushUtils.registerOppoPush(context)
-            AliyunThirdPushUtils.registerMeizuPush(context)
-            AliyunThirdPushUtils.registerHonorPush(context)
-            AliyunThirdPushUtils.registerGCM(context)
+//            AliyunThirdPushUtils.registerHuaweiPush(context)
+//            AliyunThirdPushUtils.registerXiaomiPush(context)
+//            AliyunThirdPushUtils.registerVivoPush(context)
+//            AliyunThirdPushUtils.registerOppoPush(context)
+//            AliyunThirdPushUtils.registerMeizuPush(context)
+//            AliyunThirdPushUtils.registerHonorPush(context)
+//            AliyunThirdPushUtils.registerGCM(context)
 
             map[CODE_KEY] = CODE_SUCCESS
         } else {

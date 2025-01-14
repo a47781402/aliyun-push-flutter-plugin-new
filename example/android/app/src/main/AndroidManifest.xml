@@ -10,33 +10,33 @@
         <!-- 请填写你自己的- appSecret -->
         <meta-data android:name="com.alibaba.app.appsecret" android:value="" />
 
-        <!-- 华为通道的参数appid -->
-        <meta-data android:name="com.huawei.hms.client.appid" android:value="" />
+<!--        &lt;!&ndash; 华为通道的参数appid &ndash;&gt;-->
+<!--        <meta-data android:name="com.huawei.hms.client.appid" android:value="" />-->
 
-        <!-- vivo通道的参数api_key为appkey -->
-        <meta-data android:name="com.vivo.push.api_key" android:value="" />
-        <meta-data android:name="com.vivo.push.app_id" android:value="" />
+<!--        &lt;!&ndash; vivo通道的参数api_key为appkey &ndash;&gt;-->
+<!--        <meta-data android:name="com.vivo.push.api_key" android:value="" />-->
+<!--        <meta-data android:name="com.vivo.push.app_id" android:value="" />-->
 
-        <!-- honor通道的参数-->
-        <meta-data android:name="com.hihonor.push.app_id" android:value="" />
+<!--        &lt;!&ndash; honor通道的参数&ndash;&gt;-->
+<!--        <meta-data android:name="com.hihonor.push.app_id" android:value="" />-->
 
-        <!-- oppo -->
-        <meta-data android:name="com.oppo.push.key" android:value="" />
-        <meta-data android:name="com.oppo.push.secret" android:value="" />
-        
-        <!-- 小米-->
-        <meta-data android:name="com.xiaomi.push.id" android:value="" />
-        <meta-data android:name="com.xiaomi.push.key" android:value="" />
+<!--        &lt;!&ndash; oppo &ndash;&gt;-->
+<!--        <meta-data android:name="com.oppo.push.key" android:value="" />-->
+<!--        <meta-data android:name="com.oppo.push.secret" android:value="" />-->
+<!--        -->
+<!--        &lt;!&ndash; 小米&ndash;&gt;-->
+<!--        <meta-data android:name="com.xiaomi.push.id" android:value="" />-->
+<!--        <meta-data android:name="com.xiaomi.push.key" android:value="" />-->
 
-        <!-- 魅族-->
-        <meta-data android:name="com.meizu.push.id" android:value="" />
-        <meta-data android:name="com.meizu.push.key" android:value="" />
+<!--        &lt;!&ndash; 魅族&ndash;&gt;-->
+<!--        <meta-data android:name="com.meizu.push.id" android:value="" />-->
+<!--        <meta-data android:name="com.meizu.push.key" android:value="" />-->
 
-        <!-- fcm -->
-        <meta-data android:name="com.gcm.push.sendid" android:value="" />
-        <meta-data android:name="com.gcm.push.applicationid" android:value="" />
-        <meta-data android:name="com.gcm.push.projectid" android:value="" />
-        <meta-data android:name="com.gcm.push.api.key" android:value="" />
+<!--        &lt;!&ndash; fcm &ndash;&gt;-->
+<!--        <meta-data android:name="com.gcm.push.sendid" android:value="" />-->
+<!--        <meta-data android:name="com.gcm.push.applicationid" android:value="" />-->
+<!--        <meta-data android:name="com.gcm.push.projectid" android:value="" />-->
+<!--        <meta-data android:name="com.gcm.push.api.key" android:value="" />-->
 
         <activity
             android:name=".MainActivity"
